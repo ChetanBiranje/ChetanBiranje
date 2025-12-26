@@ -1,154 +1,134 @@
-<!-- ================== SAFE 3D HERO HEADER ================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=260&color=0:141E30,100:243B55&text=Chetan%20Biranje&fontSize=48&fontColor=ffffff&animation=fadeIn" />
-</p>
+# 👋 Hi, I'm Chetan Biranje
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=900&center=true&vCenter=true&width=850&lines=Application%20Security%20Engineer;Web%20and%20API%20Pentesting;Authorization%20and%20Business%20Logic%20Testing" />
-</p>
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chetan-biranje)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](YOUR_THM_PROFILE)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](YOUR_HTB_PROFILE)
+[![Email](https://img.shields.io/badge/Email-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:chetanbiranje@proton.me)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&pause=700&center=true&vCenter=true&width=1100&lines=Breaking%20Applications%20to%20Build%20Secure%20Systems;Authorization%20%26%20Business%20Logic%20Specialist;IDOR%20%7C%20BOLA%20%7C%20JWT%20%7C%20Auth%20Bypass;Security%20is%20Impact%2C%20Not%20Just%20Findings" />
-</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChetanBiranje&label=Profile%20Views&color=blueviolet" />
-</p>
+## 🎯 Application Security Engineer | Penetration Tester | Security Researcher
 
----
+> Specialized in manual web/API penetration testing with **15+ critical vulnerabilities discovered** and **95% remediation rate**
 
-## 🧊 About Me
-🔐 **Application Security Engineer | Offensive Security**
-
-I focus on **manual Web and REST API penetration testing**, specializing in  
-**authorization flaws, IDOR/BOLA, broken access control, and business logic abuse**  
-that lead to **real-world exploitation and business impact**.
+### 🔥 Current Focus
+- 🛡️ Web & REST API Security Testing (OWASP Top 10 & API Top 10)
+- 🔓 Authorization Exploitation (IDOR/BOLA/BFLA)
+- 🔐 JWT Security & Authentication Bypass
+- 🐍 Python Security Automation & Tool Development
+- ☁️ Cloud Security (AWS, GCP)
 
 ---
 
-## 🧠 What I Do
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,python,nodejs,mongodb,js&theme=dark" />
-</p>
+## 💼 Professional Experience
 
-- Authorization Testing (IDOR, BOLA, BFLA)
-- Web and API Pentesting (OWASP Top 10 and API Top 10)
-- JWT and OAuth 2.0 exploitation
-- Business Logic abuse and Privilege Escalation
-- Developer-ready reports with PoC and remediation
+**🔒 Codec Technologies India** - *Cyber Security Intern* `Nov 2025 - Dec 2025`
+- Discovered **15+ critical vulnerabilities** (IDOR, broken authz, JWT issues)
+- Manual pentest on web apps & REST APIs using Burp Suite
+- Automated security workflows with Python → **30% time reduction**
+- Authored professional reports → **95% fix rate**
 
 ---
+## 🛠️ Technical Arsenal
 
-## 💣 Offensive Security Experience
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChetanBiranje&show_icons=true&theme=radical" />
-</p>
+### Security Testing
+```text
+Penetration Testing  ████████████████████ 95%
+Web/API Security     ████████████████████ 90%
+Authorization Tests  ███████████████████  85%
+Burp Suite Pro       ████████████████████ 90%
+Python Automation    ███████████████████  85%
+Tools: Burp Suite Pro • OWASP ZAP • Postman • Nmap • Metasploit • SQLmap • ffuf • BloodHound
+Languages: Python • JavaScript • Bash • PowerShell • SQL • Go
+Development: Node.js • Express.js • React.js • MongoDB • REST APIs • Docker
+Cloud: AWS Security • GCP IAM • Container Security
+Specialties: IDOR/BOLA • JWT • SQL Injection • XSS • SSRF • XXE • CSRF
 
-- Identified **15+ Critical and High vulnerabilities**
-- Privilege escalation via chained authorization flaws
-- OWASP API Top 10 exploitation
-- **95 percent remediation rate**
-- Python automation for faster exploitation
+🚀 Featured Projects
+🔐 API Security Testing Toolkit
+Python automation for scalable API security testing
+JWT analysis & exploitation (alg confusion, weak secrets)
+BOLA/IDOR detection through endpoint enumeration
+Mass assignment vulnerability scanner
+Authentication bypass testing framework
+Impact: 30% faster vulnerability discovery
+🕵️ Web Application Pentest Framework
+Comprehensive manual testing methodology & automation
+Authorization testing across privilege levels
+Business logic flaw detection
+Automated reconnaissance & enumeration
+OWASP Top 10 testing modules
+🎯 AD Attack Simulation Lab
+Active Directory penetration testing research
+Kerberoasting & Pass-the-Hash implementations
+Golden Ticket attack automation
+BloodHound integration for attack paths
+Post-exploitation & lateral movement techniques
+🐧 Linux PrivEsc Automation
+Automated privilege escalation enumeration
+SUID/SGID exploitation scripts
+Kernel exploit detection (DirtyCOW, PwnKit)
+Sudoers abuse automation
+Custom LinPEAS enhancement scripts
+📝 Security Research & CTF Writeups
+Vulnerability research and CTF solutions
+TryHackMe walkthrough (65+ rooms)
+Hack The Box machine writeups (6+ boxes)
+OWASP Juice Shop complete solutions
+CVE analysis & PoC development
 
----
 
-## 🧰 Tools and Technologies
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=burpsuite,python,linux,docker,js,nodejs&theme=dark" />
-</p>
+📊 GitHub Stats
 
-**Security:** Burp Suite Pro, OWASP ZAP, Nmap, Metasploit, SQLmap, ffuf  
-**Languages:** Python, JavaScript, SQL, Bash, PowerShell  
-**DevSecOps:** Secure SDLC, SAST, DAST, CI CD
+🎓 Certifications & Training
+Completed:
+✅ Threat Intelligence Fundamentals for SOC Analysts
+✅ Fundamentals of Dark Web Training
+✅ Cyber Security Architecture v1
+✅ AIG Shields Up Cybersecurity Simulation
+✅ Commonwealth Bank - Introduction to Cybersecurity
+✅ Deloitte Australia Cyber Job Simulation
+In Progress (2025):
+🎯 eJPT (eLearnSecurity Junior Penetration Tester)
+🎯 CEH (Certified Ethical Hacker)
+🎯 OSCP (Offensive Security Certified Professional)
+Labs & Practice:
+🏆 TryHackMe: 65% Junior Penetration Tester Path
+🏆 Hack The Box: 6+ Machines Rooted
+🏆 PortSwigger Academy: Web Security Training
+🏆 OWASP Juice Shop, DVWA, bWAPP
 
----
+📈 2026 Goals
+[ ] Complete OSCP certification
+[ ] Contribute to 5+ open-source security tools
+[ ] Publish 20+ CTF writeups
+[ ] Root 20+ HTB machines
+[ ] Reach 90% completion on TryHackMe Junior Pentester Path
+[ ] Discover and responsibly disclose vulnerabilities in bug bounty programs
+[ ] Build comprehensive API security testing framework
+[ ] Speak at local security meetups/conferences
 
-## 🧠 Red Team and Infrastructure
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChetanBiranje&theme=react-dark" />
-</p>
+📝 Latest Blog Posts & Writeups
 
-- Active Directory exploitation
-- Kerberoasting, Pass the Hash, Golden Ticket
-- Linux and Windows Privilege Escalation
-- Attack path analysis using BloodHound
+How I Found 15+ Critical API Vulnerabilities
+IDOR to Account Takeover: A Complete Attack Chain
+JWT Security: Algorithm Confusion Exploitation
+Active Directory Penetration Testing Methodology
+Automating Authorization Testing with Python
 
----
+🤝 Let's Connect
+I'm always open to:
+🔐 Security research collaboration
+💼 Application Security opportunities (especially at FAANG)
+🎯 CTF team formation
+📚 Knowledge sharing & mentorship
+🛠️ Open-source security tool development
+Reach out: chetanbiranje@proton.me
 
-## 🧪 Labs and Practice
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChetanBiranje&theme=radical&row=1&column=6" />
-</p>
+💭 Security Quote of the Day
+"Security is not a product, but a process." - Bruce Schneier
 
-- TryHackMe – 65 percent Junior Pentester Path  
-  👉 https://tryhackme.com/p/yourusername
-- Hack The Box – 6 plus machines rooted
-- PortSwigger Web Security Academy
-- OWASP Juice Shop and DVWA
-
----
-
-## 📂 Writeups and Projects
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ChetanBiranje&repo=Writeups&theme=radical" />
-</p>
-
-- Real-world authorization and API writeups  
-- Python tools for API fuzzing and authorization testing  
-
-👉 https://github.com/ChetanBiranje
-
----
-
-## 🌐 Platforms and Research
-<p align="center">
-  <a href="https://portswigger.net">
-    <img src="https://img.shields.io/badge/PortSwigger-Academy-FF6F00?logo=burpsuite">
-  </a>
-  <a href="https://owasp.org">
-    <img src="https://img.shields.io/badge/OWASP-Community-black?logo=owasp">
-  </a>
-  <a href="https://attack.mitre.org">
-    <img src="https://img.shields.io/badge/MITRE-ATTACK-purple">
-  </a>
-  <a href="https://nvd.nist.gov">
-    <img src="https://img.shields.io/badge/NVD-CVE%20Research-darkred">
-  </a>
-</p>
-
----
-
-## 🎯 Current Focus
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=600&center=true&vCenter=true&width=700&lines=Advanced%20API%20Authorization;Python%20Security%20Tooling;eJPT%20to%20CEH%20to%20OSCP%202025" />
-</p>
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/chetan-biranje-bb9105395">
-    <img src="https://img.shields.io/badge/LinkedIn-Chetan%20Biranje-blue?logo=linkedin">
-  </a>
-  <a href="https://github.com/ChetanBiranje">
-    <img src="https://img.shields.io/badge/GitHub-ChetanBiranje-black?logo=github">
-  </a>
-  <a href="mailto:chetanbiranje@proton.me">
-    <img src="https://img.shields.io/badge/Email-ProtonMail-purple?logo=protonmail">
-  </a>
-  <a href="https://tryhackme.com/p/yourusername">
-    <img src="https://img.shields.io/badge/TryHackMe-Active-red?logo=tryhackme">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=120&color=0:243B55,100:141E30&section=footer" />
-</p>
-
-> *Security is about mindset, depth, and impact.*
+⭐ If you find my work helpful, consider starring my repositories!
+```
